@@ -10,7 +10,9 @@ Ich mache eine Ausbildung zur Fachinformatikerin für Anwendungsentwicklung. Am 
 
 ### projekte
 
-<p align="center">
-  <a href="https://gitlab.com/ashwite/myspace"><img width="350" src="./assets/portfolio-black.png" alt="Portfolio ansehen · React und TypeScript. Vorschau mit drei Skateboard-Decks." /></a>
-  <a href="https://github.com/ashwite/brainly"><img width="350" src="./assets/brainly-black.png" alt="brainly ansehen · drei Browserspiele. Vorschau des Sudoku-Spiels." /></a>
-</p>
+<table align="center">
+  <tr>
+    <td><a href="https://gitlab.com/ashwite/myspace"><img width="320" src="./assets/portfolio-black.png" alt="Portfolio ansehen · React und TypeScript. Vorschau mit drei Skateboard-Decks." /></a></td>
+    <td><a href="https://github.com/ashwite/brainly"><img width="320" src="./assets/brainly-black.png" alt="brainly ansehen · drei Browserspiele. Vorschau des Sudoku-Spiels." /></a></td>
+  </tr>
+</table>
